@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sitioAngular"
+    }
+  },
+  "defaultProject": "sitioAngular",
+  "cli": {
+    "analytics": "fe2c0c5a-9bd8-4aa0-b6b8-d70343ec38ea"
+  }
 }
